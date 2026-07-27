@@ -1,6 +1,6 @@
 # Hi there, I'm Sudhir Vemula
 
-## Computer Science student @ Penn State University
+## Computer Science student @ Penn State
 
 <hr>
 
