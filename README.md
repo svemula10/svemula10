@@ -6,8 +6,8 @@
 
 ## About Me
 
-- Software Developer Intern @ Sheetz — Built backend automation and data engineering solutions for enterprise analytics
-- Research Assistant @ Frost Entomological Museum — Built Python data engineering tools for biodiversity research.
+- Software Developer Intern @ **Sheetz** — Built backend automation and data engineering solutions for enterprise analytics
+- Research Assistant @ **Frost Entomological Museum** — Built Python data engineering tools for biodiversity research.
 
 ### Builder of:
 
